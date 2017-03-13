@@ -9,3 +9,6 @@ https://help.github.com/articles/connecting-to-github-with-ssh/
 
 ### Changing a remote's URL
 https://help.github.com/articles/changing-a-remote-s-url/
+
+### Mastering Shell Commands
+http://www.linuxcommand.org/lc3_learning_the_shell.php
